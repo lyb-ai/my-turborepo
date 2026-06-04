@@ -1,0 +1,10 @@
+node_modules
+.pnpm-store
+.turbo
+coverage
+dist
+.vite
+*.tsbuildinfo
+.DS_Store
+.claude/settings.local.json
+/tmp-*.png
